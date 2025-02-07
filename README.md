@@ -1,5 +1,4 @@
 # cucumber-TestNG
-# cucumber-TestNG
 
 1. Creating a basic maven project
 2. Adding cucumber and cucumber TestNG dependencies in pom.xml
